@@ -1,1 +1,1 @@
-# skrypty-bash-programowanie-systemowe
+# programowanie-systemowe-oraz-skrypty-bash
